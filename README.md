@@ -223,6 +223,7 @@ To keep this list useful and trustworthy:
 - <img src="https://www.google.com/s2/favicons?domain=pay.weixin.qq.com&sz=16" width="16" height="16" /> [微信支付](https://pay.weixin.qq.com/) — China's dominant mobile payment. 0.6% fee, essential for Chinese market.
 - <img src="https://www.google.com/s2/favicons?domain=quickbooks.intuit.com&sz=16" width="16" height="16" /> [QuickBooks Solopreneur](https://quickbooks.intuit.com/solopreneur/) — Auto-categorizes expenses, tracks mileage, captures receipts, and estimates quarterly taxes.
 - <img src="https://www.google.com/s2/favicons?domain=stripe.com&sz=16" width="16" height="16" /> [Stripe](https://stripe.com/) — The default payment infrastructure for SaaS. Checkout, subscriptions, invoicing, and customer portal. Powers millions of one-person companies.
+- <img src="https://www.google.com/s2/favicons?domain=tanzhang-market-kit.hypebeast2k17.chatgpt.site&sz=16" width="16" height="16" /> [Tanzhang](https://tanzhang-market-kit.hypebeast2k17.chatgpt.site/en.html) — Free, no-signup CNY calculator for a solo market vendor to estimate one event's operating surplus; no tax or currency conversion.
 - <img src="https://www.google.com/s2/favicons?domain=xero.com&sz=16" width="16" height="16" /> [Xero](https://www.xero.com/) — Cloud-based accounting software designed for small businesses and solo operators.
 
 ### Productivity & Operations
